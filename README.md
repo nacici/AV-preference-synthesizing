@@ -13,7 +13,7 @@ Machine learning classifier is developed using the national public opinion surve
 5. generation (Baby Boomers (age 55-74); Generation X (age 35-54); Millennials (age <=34); The Silent Generation (age above 75))
 6. vehicle ownership (0, 1, 2, 3, 4, 5, 6+)
 7. number of kid (0, 1, 2, 3, 4+)
-8. income (prefer not to say)
+8. income (Under $25,000, $25,000 to under $50,000, $50,000 to under $100,000, $100,000 or greater, prefer not to say)
 9. ridesharing frequency (A few teims per year, Once per month, Once per week, Several times per week, Never)
 10. education (Four-year college degree, Two-year collge degree, Some College, Graduate or professional degree, High school or GED, Less than high school, Master's degree, Prefer not to say, Two-year collge degree, Other)
 11. commute mode (Biking & Wlaking, Not Applicable, Other method, Personal Automobiles, Public Transit, Taxi, Uber, or Lyft)
@@ -23,7 +23,7 @@ Machine learning models are developed separately for interests in
 1. purchasing Automated Vehicles (binary);
 2. sharing Automated Vehicles (i.e., using Taxi, Uber, Lyft, etc., but without drivers) (binary). 
 
-The following machine learning models are trained and tuned in this study, using 10 fold cross validation method. Python package [sciki-learn](https://scikit-learn.org/stable/) is used.  
+The following machine learning models are trained and tuned in this study, using 10 fold cross validation method. Python package [scikit-learn](https://scikit-learn.org/stable/) is used.  
 
 * sklearn.tree.DecisionTreeClassifier
 * sklearn.tree.ExtraTreeClassifier
