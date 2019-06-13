@@ -4,7 +4,7 @@ Developed a machine-learning based microsimulation approach to understand the sp
 The approach is three folded. 
 
 ## Machine Learning Classifier for AV opinions
-Machine learning classifier is developed using the national public opinion survey conducted by [Dr. Robert Noland](https://bloustein.rutgers.edu/noland/) and Sicheng Wang at Rutgers University and [Dr. Andrew Mondschein](https://www.arch.virginia.edu/people/andrew-mondschein) and Zhiqiu Jiang at University of Virginia in 2017. To make the model transferrable to [2017 National Household Travel Survey (NHTS)](https://nhts.ornl.gov/), only variables that are shared by both surveys are used in the model training process. Common variables are selected, cleaned, and recoded using python notebook "data_prep" in the repository. The common variables and corresponding coding are as follows:
+Machine learning classifier is developed using the national public opinion survey conducted by [Dr. Robert Noland](https://bloustein.rutgers.edu/noland/) and Sicheng Wang at Rutgers University and [Dr. Andrew Mondschein](https://www.arch.virginia.edu/people/andrew-mondschein) and Zhiqiu Jiang at University of Virginia in 2017. To make the model transferrable to [2017 National Household Travel Survey (NHTS)](https://nhts.ornl.gov/), only variables that are shared by both surveys are used in the model training process. Common variables are selected, cleaned, and recoded using python notebook "common_variables_recoding" in the repository. The common variables and corresponding coding are as follows:
 
 1. gender (male, female, other, prefer not to say)
 2. hispanic (yes, no, prefer not to say)
