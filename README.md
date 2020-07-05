@@ -44,17 +44,41 @@ The finalized machine learning models are then applied to NHTS dataset (after cl
 We then use the NHTS data as the seed matrix and census tract level household and personal varialbes as the marginal controls to synthesize households and population in several selected cities to understand the spatial distribution of the opinions at the census tract level. This process is implemented using PopGen1.1, an open source population synthesizer developed by [Dr. Ram Pendyala and his research team](https://www.mobilityanalytics.org/popgen.html) at Arizona State University. Note, it is also possible to synthesize to census blockgroup and/or census block level. However, it will take longer time for the mdoel to converge, when the spaital resolution is more refined. In this project, we synthesized neighborhood-level AV preferences for three cities, namely San Francisco, CA, Austin, TX, and Atlanta, GA at the census tract level. The results (in .csv format) can be found in the folder "Synthesize Results". 
 
 ## (4) Research Team
+[Wenwen Zhang](https://wenwenz.com)<br>
+Assistant Professor<br>
+Urban Affairs and Planning<br>
+Virginia Polytechnic Institute and State University<br>
+E-mail: <wenwenz3@vt.edu><br>
+<hr>
+Kaidi Wang<br>
+Ph.D. Student<br>
+Urban Affairs and Planning<br>
+Virginia Polytechnic Institute and State University<br>
+E-mail: <kaidi@vt.edu><br>
+<hr>
+Sicheng Wang<br>
+Ph.D. Student<br>
+Edward J. Bloustein School of Planning and Public Policy<br>
+Rutgers University<br>
+E-mail: <sw826@scarletmail.rutgers.edu><br>
+<hr>
+Zhiqiu Jiang<br>
+Ph.D. Student<br>
+Department of Urban and Environmental Planning<br>
+University of Virginia School of Architecture<br>
+E-mail: <zj3av@virginia.edu><br>
+<hr>
 [Andrew Mondschein](http://www.andrewmondschein.com)<br>
 Associate Professor<br>
 Department of Urban and Environmental Planning<br>
 University of Virginia School of Architecture<br>
-E-mail: mondschein@virginia.edu<br>
+E-mail: <mondschein@virginia.edu><br>
 <hr>
 [Robert B. Noland](https://bloustein.rutgers.edu/noland)<br>
 Distinguished Professor<br>
 Edward J. Bloustein School of Planning and Public Policy<br>
 Rutgers University<br>
-E-mail: rnoland@ejb.rutgers.edu<br>
+E-mail: <rnoland@ejb.rutgers.edu><br>
 
 
 
