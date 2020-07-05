@@ -45,7 +45,13 @@ The finalized machine learning models are then applied to NHTS dataset (after cl
 * Sklearn
   
 ## (3) Understanding the spatial distribution of Public Opinions
-We then use the NHTS data as the seed matrix and census tract level household and personal varialbes as the marginal controls to synthesize households and population in several selected cities to understand the spatial distribution of the opinions at the census tract level. This process is implemented using PopGen1.1, an open source population synthesizer developed by [Dr. Ram Pendyala and his research team](https://www.mobilityanalytics.org/popgen.html) at Arizona State University. Note, it is also possible to synthesize to census blockgroup and/or census block level. However, it will take longer time for the mdoel to converge, when the spaital resolution is more refined. In this project, we synthesized neighborhood-level AV preferences for three cities, namely San Francisco, CA, Austin, TX, and Atlanta, GA at the census tract level. The results (in .csv format) can be found in the folder "Synthesize Results". 
+We then use the NHTS data as the seed matrix and census tract level household and personal varialbes as the marginal controls to synthesize households and population in several selected cities to understand the spatial distribution of the opinions at the census tract level. This process is implemented using PopGen1.1, an open source population synthesizer developed by [Dr. Ram Pendyala and his research team](https://www.mobilityanalytics.org/popgen.html) at Arizona State University. Note, it is also possible to synthesize to census blockgroup and/or census block level. However, it will take longer time for the mdoel to converge, when the spaital resolution is more refined. In this project, we synthesized neighborhood-level AV preferences for three cities, namely San Francisco, CA, Austin, TX, and Atlanta, GA at the census tract level. The results (in .csv format) can be found in the folder "Synthesize Results/CITY_NAME". Under each city subfolder five files can be found: 
+
+1. PAV_SAV_SYNTHEESIZE_CITY_NAME.csv contains aggregated Census Tract level synthesized SAV and PAV adopters.
+2. person_synthetic_data.csv contains disaggregated synthesized persons, with PAV and SAV preferences (this file can be used to create agents for simulation models)
+3. person_synthetic_data_meta.txt contains beta data for the columns in the person_synthetic_data.csv file.
+4. housing_synthetic_data.csv contains disaggregated synthesized households that synthesized persons belong to. 
+5. housing_synthetic_data_meta. txt contains beta data for the columns in the housing_synthetic_data.csv file.
 
 ## (4) Research Team
 [Wenwen Zhang](https://wenwenz.com/)<br>
