@@ -50,24 +50,6 @@ Urban Affairs and Planning<br>
 Virginia Polytechnic Institute and State University<br>
 Email: wenwenz3@vt.edu<br>
 <hr>
-Kaidi Wang<br>
-Ph.D. Student<br>
-Urban Affairs and Planning<br>
-Virginia Polytechnic Institute and State University<br>
-Email: kaidi@vt.edu<br>
-<hr>
-Sicheng Wang<br>
-Ph.D. Student<br>
-Edward J. Bloustein School of Planning and Public Policy<br>
-Rutgers University<br>
-E-mail: sw826@scarletmail.rutgers.edu<br>
-<hr>
-Zhiqiu Jiang<br>
-Ph.D. Student<br>
-Department of Urban and Environmental Planning<br>
-University of Virginia School of Architecture<br>
-E-mail: zj3av@virginia.edu<br>
-<hr>
 [Andrew Mondschein](http://www.andrewmondschein.com)<br>
 Associate Professor<br>
 Department of Urban and Environmental Planning<br>
