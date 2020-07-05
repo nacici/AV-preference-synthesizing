@@ -48,7 +48,7 @@ We then use the NHTS data as the seed matrix and census tract level household an
 Assistant Professor<br>
 Urban Affairs and Planning<br>
 Virginia Polytechnic Institute and State University<br>
-Email: <br>
+Email: wenwenz3@vt.edu<br>
 <hr>
 Kaidi Wang<br>
 Ph.D. Student<br>
