@@ -3,7 +3,7 @@ Developed a machine-learning based microsimulation approach to understand the sp
 
 The approach is three folded. 
 
-## [1] Machine Learning Classifier for AV opinions
+## (1) Machine Learning Classifier for AV opinions
 Machine learning classifier is developed using the national public opinion survey conducted by [Dr. Robert Noland](https://bloustein.rutgers.edu/noland/) and Sicheng Wang at Rutgers University and [Dr. Andrew Mondschein](https://www.arch.virginia.edu/people/andrew-mondschein) and Zhiqiu Jiang at University of Virginia in 2017. To make the model transferrable to [2017 National Household Travel Survey (NHTS)](https://nhts.ornl.gov/), only variables that are shared by both surveys are used in the model training process. Common variables are selected, cleaned, and recoded using python notebook "common_variables_recoding" in the repository. The common variables and corresponding coding are as follows:
 
 1. gender (male, female, other, prefer not to say)
@@ -37,13 +37,13 @@ The following machine learning models are trained and tuned in this study, using
 * sklearn.linear_model.RidgeClassifier
 * sklearn.ensemble.GradientBoostingClassifier
 
-## [2] NHTS data AV preferences Imputation
+## (2) NHTS data AV preferences Imputation
 The finalized machine learning models are then applied to NHTS dataset (after cleaning and recoding the common variables to match that used in the machine learning models) to impute the preferences for PAVs and SAVs for each individual in the NHTS data. The process and results can be found in python notebook xxx.
   
-## [3] Understanding the spatial distribution of Public Opinions
+## (3) Understanding the spatial distribution of Public Opinions
 We then use the NHTS data as the seed matrix and census tract level household and personal varialbes as the marginal controls to synthesize households and population in several selected cities to understand the spatial distribution of the opinions at the census tract level. This process is implemented using PopGen1.1, an open source population synthesizer developed by [Dr. Ram Pendyala and his research team](https://www.mobilityanalytics.org/popgen.html) at Arizona State University. Note, it is also possible to synthesize to census blockgroup and/or census block level. However, it will take longer time for the mdoel to converge, when the spaital resolution is more refined. In this project, we synthesized neighborhood-level AV preferences for three cities, namely San Francisco, CA, Austin, TX, and Atlanta, GA at the census tract level. The results (in .csv format) can be found in the folder "Synthesize Results". 
 
-## [4] Research Team
+## (4) Research Team
 [Wenwen Zhang](https://wenwenz.com/)<br>
 Assistant Professor<br>
 Urban Affairs and Planning<br>
