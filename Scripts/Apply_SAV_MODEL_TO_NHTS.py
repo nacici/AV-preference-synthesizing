@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 from sklearn.utils import resample
 
-clf_file = "../SAV_DOWNSAMPLE_Models/results_GradientBoostingClassifier.pickle"
+clf_file = "../Model/SAV_GradientBoostingClassifier.pickle"
 
 with open(clf_file, "rb") as handle:
 	clf = pickle.load(handle)
