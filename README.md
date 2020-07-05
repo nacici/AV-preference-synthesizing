@@ -47,33 +47,38 @@ We then use the NHTS data as the seed matrix and census tract level household an
 [Wenwen Zhang](https://wenwenz.com/)<br>
 Assistant Professor<br>
 Urban Affairs and Planning<br>
-[Virginia Polytechnic Institute and State University](https://google.com)<br>
+Virginia Polytechnic Institute and State University<br>
+E-mail: wenwenz3@vt.edu<br>
 <br>
 Kaidi Wang<br>
 Ph.D. Student<br>
 Urban Affairs and Planning<br>
 Virginia Polytechnic Institute and State University<br>
+E-mail: kaidi@vt.edu<br>
 <br>
 Sicheng Wang<br>
 Ph.D. Student<br>
 Edward J. Bloustein School of Planning and Public Policy<br>
 Rutgers University<br>
+E-mail: sw826@scarletmail.rutgers.edu<br>
 <br>
 Zhiqiu Jiang<br>
 Ph.D. Student<br>
 Department of Urban and Environmental Planning<br>
 University of Virginia School of Architecture<br>
+E-mail: zj3av@virginia.edu<br>
 <br>
 [Andrew Mondschein](http://www.andrewmondschein.com/)<br>
 Associate Professor<br>
 Department of Urban and Environmental Planning<br>
 University of Virginia School of Architecture<br>
+E-mail: mondschein@virginia.edu<br>
 <br>
 [Robert B. Noland](https://bloustein.rutgers.edu/noland/)<br>
 Distinguished Professor<br>
 Edward J. Bloustein School of Planning and Public Policy<br>
 Rutgers University<br>
-
+E-mail: rnoland@ejb.rutgers.edu<br>
 
 
 
