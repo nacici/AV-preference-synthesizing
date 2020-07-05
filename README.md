@@ -68,13 +68,13 @@ Department of Urban and Environmental Planning<br>
 University of Virginia School of Architecture<br>
 E-mail: zj3av@virginia.edu<br>
 <hr>
-[Andrew Mondschein](http://www.andrewmondschein.com/)<br>
+[Andrew Mondschein](http://www.andrewmondschein.com)<br>
 Associate Professor<br>
 Department of Urban and Environmental Planning<br>
 University of Virginia School of Architecture<br>
 E-mail: mondschein@virginia.edu<br>
 <hr>
-[Robert B. Noland](https://bloustein.rutgers.edu/noland/)<br>
+[Robert B. Noland](https://bloustein.rutgers.edu/noland)<br>
 Distinguished Professor<br>
 Edward J. Bloustein School of Planning and Public Policy<br>
 Rutgers University<br>
