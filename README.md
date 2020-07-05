@@ -44,7 +44,7 @@ The finalized machine learning models are then applied to NHTS dataset (after cl
 We then use the NHTS data as the seed matrix and census tract level household and personal varialbes as the marginal controls to synthesize households and population in several selected cities to understand the spatial distribution of the opinions at the census tract level. This process is implemented using PopGen1.1, an open source population synthesizer developed by [Dr. Ram Pendyala and his research team](https://www.mobilityanalytics.org/popgen.html) at Arizona State University. Note, it is also possible to synthesize to census blockgroup and/or census block level. However, it will take longer time for the mdoel to converge, when the spaital resolution is more refined. In this project, we synthesized neighborhood-level AV preferences for three cities, namely San Francisco, CA, Austin, TX, and Atlanta, GA at the census tract level. The results (in .csv format) can be found in the folder "Synthesize Results". 
 
 ## (4) Research Team
-[Wenwen Zhang](https://wenwenz.com/)<br>
+[Wenwen Zhang](https://wenwenz.com)<br>
 Assistant Professor<br>
 Urban Affairs and Planning<br>
 Virginia Polytechnic Institute and State University<br>
