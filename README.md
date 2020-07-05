@@ -55,7 +55,7 @@ Ph.D. Student<br>
 Urban Affairs and Planning<br>
 Virginia Polytechnic Institute and State University<br>
 Email: kaidi@vt.edu<br>
- <hr>
+<hr>
 Sicheng Wang<br>
 Ph.D. Student<br>
 Edward J. Bloustein School of Planning and Public Policy<br>
